@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The project showcases Python 3 skills used to update a file in order to remove certain IP addresses from the set allowed on an imaginary network. A simple project that showcases the ability to automate responsibilities that require diligent, but repetitive work. Within the scenario the starting file containing allowed ip addresses will be called allow_list.txt. This file will be updated with the contents of a file called remove_list.txt. The whole code is posted into subdirectory
+The project showcases Python 3 skills used to update a file in order to remove certain IP addresses from the set allowed on an imaginary network. A simple project that showcases the ability to automate responsibilities that require diligent, but repetitive work. Within the scenario the starting file containing allowed ip addresses will be called allow_list.txt. This file will be updated with the contents of a file called remove_list.txt.
 <br />
 
 
